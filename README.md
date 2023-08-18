@@ -1,0 +1,1 @@
+Based on [xPaw/PHP-Minecraft-Query](https://github.com/xPaw/PHP-Minecraft-Query)
