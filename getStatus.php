@@ -4,7 +4,7 @@
 	use xPaw\MinecraftPingException;
 
 	// Edit this ->
-	define( 'MQ_SERVER_ADDR', '10.0.0.12' );
+	define( 'MQ_SERVER_ADDR', 'localhost' );
 	define( 'MQ_SERVER_PORT', 25565 );
 	define( 'MQ_TIMEOUT', 1 );
 	// Edit this <-
