@@ -10,8 +10,8 @@
 	// Edit this <-
 
 	// 实现
-	require __DIR__ . '/src/MinecraftPing.php';
-	require __DIR__ . '/src/MinecraftPingException.php';
+	require __DIR__ . '../lib/MinecraftPing.php';
+	require __DIR__ . '../lib/MinecraftPingException.php';
 	
 	$Timer = MicroTime( true );
 
