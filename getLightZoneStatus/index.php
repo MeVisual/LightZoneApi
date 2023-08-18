@@ -9,9 +9,9 @@
 	define( 'MQ_TIMEOUT', 1 );
 	// Edit this <-
 
-	// 实现
-	require __DIR__ . '../lib/MinecraftPing.php';
-	require __DIR__ . '../lib/MinecraftPingException.php';
+	// 引用lib
+	require __DIR__ . '../../lib/MinecraftPing.php';
+	require __DIR__ . '../../lib/MinecraftPingException.php';
 	
 	$Timer = MicroTime( true );
 
